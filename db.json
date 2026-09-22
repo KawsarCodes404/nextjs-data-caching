@@ -1,0 +1,133 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless mio Headphones",
+      "category": "Electronics",
+      "price": 59.99,
+      "rating": 4.5,
+      "stock": 25,
+      "description": "Comfortable wireless headphones featuring active noise cancellation, soft ear cushions, clear audio quality, and a long-lasting battery. Perfect for music, movies, gaming, and daily travel.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 79.99,
+      "rating": 4.7,
+      "stock": 18,
+      "description": "A durable RGB mechanical keyboard with responsive switches, customizable lighting, comfortable keycaps, and a solid build. Ideal for programming, gaming, and everyday typing.",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch",
+      "category": "Wearables",
+      "price": 129.99,
+      "rating": 4.4,
+      "stock": 12,
+      "description": "A modern smart watch with fitness tracking, heart-rate monitoring, sleep tracking, step counting, and smartphone notifications. Its lightweight design makes it suitable for everyday use.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+    },
+    {
+      "id": 4,
+      "name": "Laptop Backpack",
+      "category": "Accessories",
+      "price": 39.99,
+      "rating": 4.6,
+      "stock": 30,
+      "description": "A spacious and water-resistant laptop backpack with a dedicated padded laptop compartment, multiple storage pockets, comfortable shoulder straps, and a practical design for students and professionals.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
+    },
+    {
+      "id": 5,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 89.99,
+      "rating": 4.8,
+      "stock": 20,
+      "description": "Lightweight running shoes designed for comfort, stability, and everyday training. They feature breathable materials, cushioned soles, and a flexible design suitable for running, walking, and workouts.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": 6,
+      "name": "Portable Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 49.99,
+      "rating": 4.3,
+      "stock": 22,
+      "description": "A compact portable Bluetooth speaker delivering clear and powerful sound with up to 12 hours of battery life. Its lightweight design makes it easy to carry for outdoor activities, parties, and travel.",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1"
+    }
+  ],
+
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 12.99,
+      "rating": 4.7,
+      "stock": 15,
+      "description": "A young shepherd named Santiago travels in search of a hidden treasure and discovers valuable lessons about dreams, courage, and following one's destiny.",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f"
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-Help",
+      "price": 18.99,
+      "rating": 4.8,
+      "stock": 22,
+      "description": "A practical guide to building good habits, breaking bad ones, and making small improvements that can create significant long-term results.",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 29.99,
+      "rating": 4.6,
+      "stock": 10,
+      "description": "A programming book that explains principles, techniques, and best practices for writing readable, maintainable, and high-quality software.",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765"
+    },
+    {
+      "id": 4,
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas & Andrew Hunt",
+      "category": "Programming",
+      "price": 34.99,
+      "rating": 4.8,
+      "stock": 14,
+      "description": "A practical guide for software developers covering programming techniques, problem-solving strategies, software design, and professional development.",
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d"
+    },
+    {
+      "id": 5,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 16.99,
+      "rating": 4.5,
+      "stock": 19,
+      "description": "An exploration of focused work and concentration, explaining how reducing distractions can help people produce valuable work and improve their skills.",
+      "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e"
+    },
+    {
+      "id": 6,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "category": "Finance",
+      "price": 15.99,
+      "rating": 4.6,
+      "stock": 17,
+      "description": "A personal finance book that discusses different approaches to money, investing, financial education, assets, liabilities, and building long-term financial independence.",
+      "image": "https://images.unsplash.com/photo-1550399105-c4db5fb85c18"
+    }
+  ]
+}
