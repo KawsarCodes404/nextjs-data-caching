@@ -1,6 +1,12 @@
+'use client'
 import Link from "next/link";
+import { use } from "react";
+import { UserContext } from "../contexts/UserContext";
 
 const BookCard = ({ book }) => {
+
+    const user = use(UserContext);
+
     return (
         <div className="card bg-base-100 shadow-sm">
             <div className="card-body">
